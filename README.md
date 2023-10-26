@@ -16,34 +16,4 @@
 | 211029183	| Caio Pacheco Santos                      |    |
 | 211045178	| Luis Guilherme Borges Monteiro           |    |
 
-## Rascunho
 
-Tema escolhido – Encontros de Lazer 
-
-- Jogos 
-
-- Eventos de Música 
-
-- Eventos de Competição de Habilidades 
-
-- Eventos de Conversação de Línguas Estrangeiras 
-
-- Leitura 
-
-- Picnic 
-
-## Questões?
-
-## Solução
-
-## Alternativas existentes
-
-## Viabilidade
-
-## Parceiros-Chaves
-
-## Atividades-Chave
-
-## Plataforma
-
-## MVP
