@@ -34,19 +34,53 @@ Tema escolhido – Encontros de Lazer
 
 ## Questões?
 
+- Como podemos promover encontros de lazer na faculdade?
+
+- Como podemos atrair mais participantes para eventos de lazer?
+
 ## Solução
+
+- Desenvolver uma plataforma digital para promover e gerenciar eventos de lazer na faculdade.
 
 ## Alternativas existentes
 
+- Outras organizações estudantis que promovem eventos de lazer manualmente.
+
+- Aplicativos de eventos de lazer existentes.
+
 ## Viabilidade
+
+- Pesquisar a demanda dos estudantes por eventos de lazer.
+
+- Avaliar a disponibilidade de recursos para o desenvolvimento da plataforma.
+
+- Analisar a viabilidade financeira do projeto.
 
 ## Parceiros-Chaves
 
+- Colaborar com outros grupos estudantis para co-organizar eventos.
+
+- Envolver patrocinadores locais para financiar os eventos.
+
 ## Atividades-Chave
+
+- Desenvolver e manter a plataforma digital.
+
+- Promover os eventos e atrair participantes.
+
+- Coordenar e realizar os eventos de lazer.
 
 ## Plataforma
 
+- Desenvolvimento de um aplicativo ou site para promover eventos.
+
+- Integração de sistemas de pagamento e registro de participantes.
+
 ## MVP
+ 
+- MVP consiste em um site básico que lista os próximos eventos de lazer.
+
+- Capacidade de registro de participantes e pagamento online.
 
 
 
